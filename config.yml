@@ -28,7 +28,7 @@ menu:
 
 params:
     description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: UNDER CONSTRUCTION (HUGE WEBSITE TEMPLATE)
+    author: UNDER CONSTRUCTION (HUGO WEBSITE TEMPLATE)
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
